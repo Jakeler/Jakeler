@@ -1,4 +1,6 @@
-### Hi there 👋
+
+![Github profile stats](https://github-readme-stats.vercel.app/api?username=Jakeler&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true)
+![my language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jakeler&layout=compact&exclude_repo=Jakeler.github.io&langs_count=8&theme=github_dark&hide_border=true)
 
 <!--
 **Jakeler/Jakeler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
