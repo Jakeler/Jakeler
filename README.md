@@ -1,5 +1,5 @@
 
-![Github profile stats](https://github-readme-stats.vercel.app/api?username=Jakeler&show_icons=false&include_all_commits=true&theme=github_dark&hide_border=true&hide_rank=true)
+![Github profile stats](https://github-readme-stats.vercel.app/api?username=Jakeler&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&hide_rank=true)
 ![my language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jakeler&layout=compact&exclude_repo=Jakeler.github.io&langs_count=8&theme=github_dark&hide_border=true)
 
 <!--
